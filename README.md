@@ -1,5 +1,5 @@
 <div>
-  <img src ="https://media1.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47wyafzpu2cltr5ox9l4lsgo5vdppenhtclmggxn2e&rid=giphy.gif&ct=g"  alt="android" width="750" height="750">
+  <img src ="https://media1.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47wyafzpu2cltr5ox9l4lsgo5vdppenhtclmggxn2e&rid=giphy.gif&ct=g"  alt="android" width="500" height="500">
 </div>
 </p>
 <h3 align="left">Learning <img src="https://cdn.7tv.app/emote/618330c5f1ae15abc7ebb8c6/4x.webp" alt="this" width="30" height="30"></a> :</h3>
