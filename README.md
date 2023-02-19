@@ -1,4 +1,4 @@
-<div align "center">
+<div align = "center">
   <img src ="https://media1.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47wyafzpu2cltr5ox9l4lsgo5vdppenhtclmggxn2e&rid=giphy.gif&ct=g"  alt="android" width="500" height="500">
 </div>
 </p>
